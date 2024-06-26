@@ -1,2 +1,4 @@
-# Data_Science_Projects
-Data Science Projects Portfolio
+# Data Science Projects Portfolio
+### 1. Regression
+### 2. Classification
+### 3. Data Visualization
